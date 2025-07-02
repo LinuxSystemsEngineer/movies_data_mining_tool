@@ -1,7 +1,7 @@
 
 # 🎬 Movies Data Mining Tool 🎬
 
-🔎 A **fast multi-threaded web data mining tool** that extracts **popular new release movies** from Rotten Tomatoes.  
+🔎 A **fast multi-threaded web data mining tool** that extracts a printed list of **popular new release movies** from Rotten Tomatoes.  
 
 ⚡ Built for efficiency, the tool utilizes **asynchronous web requests** and **multi-threading** to speed up data extraction.
 
